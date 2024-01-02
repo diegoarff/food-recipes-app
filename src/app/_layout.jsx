@@ -1,3 +1,4 @@
+import '../../global.css';
 import {
   useFonts,
   Inter_300Light,
